@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ডিজিটাল ক্যাশ বুক</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="toast">সকল তথ্য দিন</string>
+    <string name="home">হোম</string>
+    <string name="income">ইনকাম</string>
+    <string name="expense">খরচ</string>
+    <string name="loan">ঋন</string>
+    <string name="givenloan">ঋন প্রদান</string>
+    <string name="takenloan">ঋন গ্রহন</string>
+    <string name="returnloan">প্রদানকৃত ঋন ফেরত</string>
+    <string name="paidloan">গ্রহনকৃত ঋন পরিশোধ</string>
+    <string name="report">সকল তথ্য</string>
+    <string name="sucess">তথ্য সংরক্ষন সফল হয়েছে</string>
+    <string name="money">টাকা</string>
+    <string name="source">বিবরন</string>
+    <string name="date">তারিখ</string>
+    <string name="submit">হিসাব সংরক্ষন</string>
+    <string name="today">আজকের</string>
+    <string name="thisweek">গত ৭ দিনের</string>
+    <string name="thismonth">এই মাসের</string>
+    <string name="thisyear">এই বছরের</string>
+    <string name="moneyhint">হিসাবের পরিমান দিন</string>
+    <string name="ssourcehint">হিসাব উৎসের সংক্ষিপ্ত বিবরন বা নাম</string>
+    <string name="vgivenloan">ঋন প্রদান দেখুন</string>
+    <string name="vtakenloan">ঋন গ্রহন দেখুন</string>
+    <string name="vreturnloan">প্রদানকৃত ঋন ফেরত দেখুন</string>
+    <string name="vpaidloan">গ্রহনকৃত ঋন পরিশোধ দেখুন</string>
+
+    <string name="Tincome">মোট ইনকাম</string>
+    <string name="Texpense">মোট খরচ</string>
+    <string name="Tgivenloan">মোট ঋন প্রদান</string>
+    <string name="Ttakenloan">মোট ঋন গ্রহন</string>
+    <string name="Treturnloan">মোট প্রদানকৃত ঋন ফেরত</string>
+    <string name="Tpaidloan">মোট গ্রহনকৃত ঋন পরিশোধ</string>
+
+
+</resources>
